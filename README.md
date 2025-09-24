@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 ![xink2594's GitHub stats](https://github-immortality.vercel.app/api?username=xink2594)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=xink2594)
